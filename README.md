@@ -1,31 +1,26 @@
-Nama: Aditya Mukti Wardana 
-Kelas: 3B 
-NIM: 25130210003 
-Prodi: Teknologi Informasi 
-Matkul: Pemrograman Berorientasi 
 4.1 Membuat folder proyek 
-    <img width="929" height="264" alt="image" src="https://github.com/user-attachments/assets/43ed9d8c-bad9-4dfa-9c4a-42a08a6ab1e2" />
+    <img width="940" height="222" alt="image" src="https://github.com/user-attachments/assets/600e9017-c73c-4bf2-bfe0-a52926f39e31" />
 4.2 Hasil run pada kode 
-    <img width="929" height="153" alt="image" src="https://github.com/user-attachments/assets/bf61a0f4-9a14-4994-8aed-1ae7449f285e" />
+    <img width="940" height="323" alt="image" src="https://github.com/user-attachments/assets/802c1f81-00c6-4f7f-8ef5-ae928afc854e" />
 4.3 Mengganti isi buku.py dengan versi memakai konstruktor 
-    <img width="929" height="270" alt="image" src="https://github.com/user-attachments/assets/506fa118-e63e-481c-abf1-e55280eebc7c" />
+    <img width="940" height="274" alt="image" src="https://github.com/user-attachments/assets/69c1718d-6626-4819-aa7c-763e0ba3bfe6" />
 4.4 Menambahkan kode di bawah kelas buku
-    <img width="929" height="401" alt="image" src="https://github.com/user-attachments/assets/719e1fdb-5a6a-4f37-bcb5-c17fc5069d99" />
+    <img width="940" height="323" alt="image" src="https://github.com/user-attachments/assets/33093310-35a4-4719-8440-303bd1100908" />
 Hasil keluaran: 
-    <img width="934" height="203" alt="image" src="https://github.com/user-attachments/assets/9af676ff-8188-4880-83e4-78b8cb7e958f" />
+    <img width="856" height="264" alt="image" src="https://github.com/user-attachments/assets/4012eb0c-f4b5-4230-9d47-80fc106755e3" />
 4.5 Mengunggah ke git  
-    <img width="934" height="632" alt="image" src="https://github.com/user-attachments/assets/4da76772-7878-4aa8-9f4e-580294a366fe" />
+    
  
 TUGAS MANDIRI 
 1. Tambahkan atribut tahun_terbit pada kelas Buku tampilan di info()
-    <img width="934" height="515" alt="image" src="https://github.com/user-attachments/assets/b006481b-3d12-44af-91aa-d356e3f55fb7" />
+    <img width="848" height="553" alt="image" src="https://github.com/user-attachments/assets/291c07b8-8898-4937-a010-fe893090e6b7" />
 Hasil run pada kode:
-    <img width="940" height="544" alt="image" src="https://github.com/user-attachments/assets/2b31d645-3d55-492b-9d5c-7c0a9cb7a2a1" />
+    <img width="851" height="414" alt="image" src="https://github.com/user-attachments/assets/b7b9fb65-e598-4546-937b-5255bc68262f" />
 2. Berikan nilai default "Tidak diketahui" untuk penulis pada konstruktor, lalu buat satu objek tanpa mengisi penulis. 
 Menjalankan perintah git push origin:
-    <img width="904" height="212" alt="image" src="https://github.com/user-attachments/assets/9be2ce83-a0d7-4026-be25-9c8462f30f61" />
+    <img width="848" height="109" alt="image" src="https://github.com/user-attachments/assets/1dd41928-acbf-4444-8b63-38a1aef4c6e2" />
 Menjalankan perintah python buku.py:
-     <img width="904" height="324" alt="image" src="https://github.com/user-attachments/assets/51af2c2f-5caf-41a9-b006-773c6aeefc31" />
+     <img width="842" height="345" alt="image" src="https://github.com/user-attachments/assets/05a2ce3c-8f5d-4f1f-b49b-33e6f321e261" />
 3. Simpan perubahan sebagai commit baru dengan pesan yang jelas, lalu push kembali 
 ke GitHub.
 - Fungsi Konstruktor (__init__): Konstruktor adalah metode spesial (__init__) yang dijalankan secara otomatis ketika sebuah objek dibuat dari suatu kelas. Fungsinya adalah untuk menginisialisasi atau mengisi nilai awal atribut milik objek tersebut.
